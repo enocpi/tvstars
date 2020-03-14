@@ -1,0 +1,11 @@
+D:\Users\dbridges2\source\repos\tvstar\tvstar\obj\Debug\netcoreapp3.1\tvstar.csprojAssemblyReference.cache
+D:\Users\dbridges2\source\repos\tvstar\tvstar\obj\Debug\netcoreapp3.1\tvstar.AssemblyInfoInputs.cache
+D:\Users\dbridges2\source\repos\tvstar\tvstar\obj\Debug\netcoreapp3.1\tvstar.AssemblyInfo.cs
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.exe
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.deps.json
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.runtimeconfig.json
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.runtimeconfig.dev.json
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.dll
+D:\Users\dbridges2\source\repos\tvstar\tvstar\bin\Debug\netcoreapp3.1\tvstar.pdb
+D:\Users\dbridges2\source\repos\tvstar\tvstar\obj\Debug\netcoreapp3.1\tvstar.dll
+D:\Users\dbridges2\source\repos\tvstar\tvstar\obj\Debug\netcoreapp3.1\tvstar.pdb
